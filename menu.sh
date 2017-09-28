@@ -71,4 +71,4 @@ echo -e "\e[031;1m# ************************************************************
   read -p "Masukkan pilihan anda, kemudian tekan tombol ENTER: " option1
 	case $option1 in
 
-wget -O update https://raw.githubusercontent.com/KeningauVPS/AnakSabahan91/master/updategay && chmod +x updategay && ./updategay
+wget -O update https://raw.githubusercontent.com/KeningauVPS/123/master/apdate && chmod +x apdate && ./apdate
