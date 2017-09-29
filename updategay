@@ -174,7 +174,7 @@ chmod +x /usr/bin/userdelete
 
 #install gay
 cd
-wget https://raw.githubusercontent.com/KeningauVPS/AnakSabahan91/master/menu
+wget https://raw.githubusercontent.com/KeningauVPS/AnakSabahan91/master/update.sh
 mv ./menu /usr/local/bin/menu
 chmod +x /usr/local/bin/menu
 
